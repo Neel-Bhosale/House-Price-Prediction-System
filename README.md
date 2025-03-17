@@ -25,4 +25,5 @@ This project builds and deploys a machine learning model to predict house prices
 │── app.py                   # FastAPI application for prediction  
 │── house_price_prediction.ipynb  # Jupyter Notebook (EDA, training, evaluation)  
 │── README.md                # Project documentation  
+│── requirements.txt         # Python dependencies
  
